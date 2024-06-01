@@ -1,0 +1,154 @@
+body{
+    background-color: crimson;
+}
+h1{
+    color: darkgreen;
+}
+header{
+    background-color: lightgreen;
+    width: 100%;
+    height: 75px;
+border: 1px solid color(blue);
+text-align: center;
+}
+.articulo{
+    background-color: lightyellow;
+    width: 60%;
+    height: 2150px;
+display: inline-block;
+}
+.imagenes{
+    float: right;
+    background-color: lightblue;
+    width: 40%;
+    height: 2150px;
+}
+img{
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+ul{
+    list-style-type: none;
+    transform: translateX(7%);
+}
+li :hover{
+    filter: grayscale(100%);
+    transition: 1.5s;
+}
+.par1{
+    font-size: medium;
+    font-family: Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: forestgreen;
+}
+.par2{
+    font-size: medium;
+    font-family: Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: forestgreen;
+}
+.par3{
+    font-size: medium;
+    font-family: Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: forestgreen;
+}
+.par4{
+    font-size: medium;
+    font-family:  Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: forestgreen;
+}
+.ejemplo{
+    float: left;
+}
+.ejemplo{
+    float: left;
+}
+.ej1{
+    float: right;
+    width: 160px;
+    height: 160px;
+}
+.paso1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+}
+h3{
+    text-align: center;
+    color: darkblue;
+}
+.paso2{
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+}
+.paso3{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+}
+.paso4{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+}
+.motivo{
+    text-align: right;
+    color: crimson;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.materiales{
+    text-align: left;
+    color: crimson;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.paso5{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+}
+.izquierda{
+    float: left;
+}
+.derecha{
+    float: right;
+    transform: translateX(-20%);
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: violet;
+    display: inline-flex;
+
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode'; 
+transform: translateX(70%);
+    color: darkred;
+}
+div{
+    background-color: aquamarine;
+    border-radius: 1rem;
+}
+#energia{
+    font-size: larger;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#eolica{
+    font-size: larger;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
